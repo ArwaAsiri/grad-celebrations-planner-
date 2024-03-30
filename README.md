@@ -5,8 +5,8 @@
 
 
 ### Languages used: 
-+ Java: Utilized for application development and implementation of business logic.
-+ SQL: Employed for database management and querying.
++ **Java**: Utilized for application development and implementation of business logic.
++ **SQL**: Employed for database management and querying.
 
 ### Technologies used:
 For this project, we employed the JavaFX library to develop the user interfaces. MySQL was utilized for database construction, with Hibernate serving as the connection tool. The development environment utilized was the NetBeans IDE.
