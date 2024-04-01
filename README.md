@@ -18,4 +18,4 @@ For this project, we employed the JavaFX library to develop the user interfaces.
 + Aseel Ahmed
 
 ## Demo Video
-[Watch the demo video]()
+[Watch the demo video](https://github.com/ArwaAsiri/grad-celebrations-planner-/blob/main/GradsDelight%20Demo%20(1).mp4)
