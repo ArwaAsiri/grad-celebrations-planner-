@@ -16,3 +16,6 @@ For this project, we employed the JavaFX library to develop the user interfaces.
 + Fay Althubaiti
 + Rehab Almujairishi
 + Aseel Ahmed
+
+## Demo Video
+[Watch the demo video]()
